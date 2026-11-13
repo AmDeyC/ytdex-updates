@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmDeyC/YTDex-releases/main/assets/ytdex-logo.png" width="88" alt="YTDex">
+  <img src="assets/ytdex-icon.svg" width="88" alt="YTDex">
 </p>
 
 <h1 align="center">YTDex</h1>
@@ -7,7 +7,7 @@
 <p align="center">Videos and music for Windows, in one app.</p>
 
 <p align="center">
-  <a href="https://github.com/AmDeyC/YTDex-releases/releases/latest"><img src="https://raw.githubusercontent.com/AmDeyC/YTDex-releases/main/assets/download-button.svg" width="320" alt="Download YTDex for Windows"></a>
+  <a href="https://github.com/AmDeyC/YTDex-releases/releases/latest"><img src="assets/download-button.svg" width="320" alt="Download YTDex for Windows"></a>
 </p>
 
 <p align="center"><sub>Windows 10 and 11 · 64-bit and 32-bit · free · unofficial</sub></p>
@@ -35,7 +35,7 @@ Dev 7 keeps your existing install folder and settings in `%APPDATA%\YTDex`, grou
 
 ## Install
 
-1. For Stable, download **YTDex-Setup-<version>.exe** from the [latest Stable release](https://github.com/AmDeyC/YTDex-releases/releases/latest).
+1. For Stable, download **YTDex-Setup-&lt;version&gt;.exe** from the [latest Stable release](https://github.com/AmDeyC/YTDex-releases/releases/latest).
 2. For this test build, download **YTDex-Setup-1.6.2-dev.7.exe** from the [Dev 7 release](https://github.com/AmDeyC/YTDex-updates/releases/tag/v1.6.2-dev.7).
 3. Run it. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
 
