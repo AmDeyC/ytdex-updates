@@ -10,4 +10,4 @@
 
 This repo is [AmDeyC/ytdex-updates](https://github.com/AmDeyC/ytdex-updates). New installs and the app from 2.0.0 on use [AmDeyC/ytdex-releases](https://github.com/AmDeyC/ytdex-releases).
 
-This repo stays up so installs from 1.5.13 and from Dev 5–8 can still reach 2.0.0. YTDex 2.0.0 itself does not read this repo. It is not archived.
+This repo stays up so installs from 1.5.13 and from Dev 5–8 can still move forward. It is not the Latest feed. The latest Release is 2.0.3 on ytdex-releases. YTDex 2.0.0 and later do not read this repo. It is not archived.
